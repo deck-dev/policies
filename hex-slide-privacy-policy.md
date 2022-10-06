@@ -1,6 +1,6 @@
 <h2 style="text-align: center;">PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS</h2> 
 <p></p> 
-<p>This privacy policy governs your use of the software application Hex Slide (“Application”) for mobile devices that was created by&nbsp;Deck Dev.&nbsp;The Application is&nbsp;A logic game in which you have to slide the circles in a hexagonal grid. The ones of the same color join and increase the score.&nbsp;</p> 
+<p>This privacy policy governs your use of the software application Hex Slide (“Application”) for mobile devices that was created by&nbsp;Deck Dev.&nbsp;The Application is&nbsp;a logic game in which you have to slide the circles in a hexagonal grid. The ones of the same color join and increase the score.&nbsp;</p> 
 <h4>&nbsp;</h4> 
 <h4>What information does the Application obtain and how is it used?</h4> 
 <p></p> 
